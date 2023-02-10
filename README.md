@@ -7,6 +7,7 @@ See [this blog post](https://blog.langchain.dev/tutorial-chatgpt-over-your-data/
 ## Ingest data
 
 Data ingestion pulls from the ISW website.
+Ingestion of data is done over the `state_of_the_union.txt` file.
 Therefore, the only thing that is needed is to be done to ingest data is run `python ingest_data.py`
 
 ## Query data
